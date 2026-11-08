@@ -27,5 +27,5 @@ Created for Practical Assignment 1 – Team Project IT.
 
 ## Team collaboration (Pull Requests)
 
-- Pull Request I created in my partner's repository: PR_LINK_OUTGOING
-- Pull Request my partner created in my repository: PR_LINK_INCOMING
+- Pull Request I created in my partner's repository: https://github.com/vistula-team-project-73174-gul/vistula-task-manager/pull/1
+- Pull Request my partner created in my repository: https://github.com/vistula-team-project-72608/vistula-task-manager/pull/1
