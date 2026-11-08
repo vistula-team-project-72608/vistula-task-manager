@@ -1,0 +1,5 @@
+{
+  "supabaseUrl": "https://YOUR_PROJECT_ID.supabase.co",
+  "supabasePublishableKey": "sb_publishable_YOUR_KEY",
+  "tableName": "tasks"
+}
