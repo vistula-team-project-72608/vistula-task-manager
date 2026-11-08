@@ -1,5 +1,5 @@
 {
-  "supabaseUrl": "https://YOUR_PROJECT_ID.supabase.co",
-  "supabasePublishableKey": "sb_publishable_YOUR_KEY",
+  "supabaseUrl": "https://idhxwxlfbuwkusnpwjth.supabase.co/rest/v1/",
+  "supabasePublishableKey": "sb_publishable_jBi9-eGQAPZzjbhEx85LNQ_rgl4Wu6Z",
   "tableName": "tasks"
 }
